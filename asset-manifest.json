@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel-adventure/static/css/main.f319df7f.chunk.css",
+    "main.js": "/travel-adventure/static/js/main.76b6d029.chunk.js",
+    "main.js.map": "/travel-adventure/static/js/main.76b6d029.chunk.js.map",
+    "runtime-main.js": "/travel-adventure/static/js/runtime-main.1d1bb1aa.js",
+    "runtime-main.js.map": "/travel-adventure/static/js/runtime-main.1d1bb1aa.js.map",
+    "static/js/2.5d0f3a9c.chunk.js": "/travel-adventure/static/js/2.5d0f3a9c.chunk.js",
+    "static/js/2.5d0f3a9c.chunk.js.map": "/travel-adventure/static/js/2.5d0f3a9c.chunk.js.map",
+    "index.html": "/travel-adventure/index.html",
+    "static/css/main.f319df7f.chunk.css.map": "/travel-adventure/static/css/main.f319df7f.chunk.css.map",
+    "static/js/2.5d0f3a9c.chunk.js.LICENSE.txt": "/travel-adventure/static/js/2.5d0f3a9c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/travel-adventure/static/media/img-8.fabdf94d.jpg",
+    "static/media/HeroSection.css": "/travel-adventure/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d1bb1aa.js",
+    "static/js/2.5d0f3a9c.chunk.js",
+    "static/css/main.f319df7f.chunk.css",
+    "static/js/main.76b6d029.chunk.js"
+  ]
+}
