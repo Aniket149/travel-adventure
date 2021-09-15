@@ -9,10 +9,10 @@ import SignUp from './Components/pages/SignUp';
 function App() {
   return (
     <>
-        <Navbar/>
-        <Home/>
-      <Router>
-        <Switch>
+        <Router>
+            <Navbar/>
+            <Switch>
+          <Route path = "/" component={Home}/>
           <Route path = "/services" component={Services}/>
           <Route path = "/products" component={Products}/>
           <Route path = "/sign-up" component={SignUp}/>
